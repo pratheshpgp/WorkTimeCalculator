@@ -1,0 +1,17 @@
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.deps.json
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.runtimeconfig.json
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.runtimeconfig.dev.json
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.dll
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.pdb
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\WorkTimeCalculator.dll
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\bin\Debug\netcoreapp2.1\WorkTimeCalculator.pdb
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\obj\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.csprojAssemblyReference.cache
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\obj\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.csproj.CoreCompileInputs.cache
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\obj\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.AssemblyInfoInputs.cache
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\obj\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.AssemblyInfo.cs
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\obj\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.csproj.CopyComplete
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\obj\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.dll
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\UnitTest_WorkTime_Calc\obj\Debug\netcoreapp2.1\UnitTest_WorkTime_Calc.pdb

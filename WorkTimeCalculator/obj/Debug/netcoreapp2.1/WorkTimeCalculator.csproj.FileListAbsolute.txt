@@ -14,9 +14,9 @@ C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCal
 C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\bin\Debug\netcoreapp2.1\WorkTimeCalculator.runtimeconfig.dev.json
 C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\bin\Debug\netcoreapp2.1\WorkTimeCalculator.dll
 C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\bin\Debug\netcoreapp2.1\WorkTimeCalculator.pdb
-C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\obj\Debug\netcoreapp2.1\WorkTimeCalculator.csprojAssemblyReference.cache
 C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\obj\Debug\netcoreapp2.1\WorkTimeCalculator.csproj.CoreCompileInputs.cache
 C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\obj\Debug\netcoreapp2.1\WorkTimeCalculator.AssemblyInfoInputs.cache
 C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\obj\Debug\netcoreapp2.1\WorkTimeCalculator.AssemblyInfo.cs
 C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\obj\Debug\netcoreapp2.1\WorkTimeCalculator.dll
 C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\obj\Debug\netcoreapp2.1\WorkTimeCalculator.pdb
+C:\Users\prath\Desktop\TestWorkprofile-master\TestWorkprofile-master\WorkTimeCalculator\obj\Debug\netcoreapp2.1\WorkTimeCalculator.csprojAssemblyReference.cache
